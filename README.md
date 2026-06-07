@@ -96,10 +96,10 @@ const dhruv = {
 ## 📬 Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dhruv005--git-black?style=flat-square&logo=github)](https://github.com/Dhruv005-git)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruv%20Jain-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruv%20Jain-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhruv-jain-a958772a6/)
 [![Email](https://img.shields.io/badge/Email-jaindhru005%40gmail.com-red?style=flat-square&logo=gmail)](mailto:jaindhru005@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/YOUR_HANDLE)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1441%20rating-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/YOUR_HANDLE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/DhruvJain13/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1441%20rating-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/O1Dhruv)
 
 ---
 
